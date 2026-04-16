@@ -105,16 +105,14 @@
 
     header a {
         font-size: 14px;
-        padding: 8px;
+        padding: 5px;
     }
 
     .header-right {
-        flex-direction: column;
         align-items: center;
     }
 
     .lista-linguagens {
-        flex-direction: column;
         gap: 8px;
     }
 
