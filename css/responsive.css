@@ -139,5 +139,9 @@
         padding: 4px;
     }
 
+    .grafico {
+        height:40vh; 
+        width:80vw;
+    }
 
 }
