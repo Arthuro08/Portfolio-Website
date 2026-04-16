@@ -69,9 +69,8 @@
     }
 
     .grafico {
-        width: 100%;
-        max-width: 350px;
-        height: auto;
+        height:40vh; 
+        width:80vw;
     }
 
     .projetos {
@@ -142,6 +141,10 @@
     .grafico {
         height:40vh; 
         width:80vw;
+    }
+
+    .trajetoria {
+        font-size: 10px;
     }
 
 }
