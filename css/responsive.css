@@ -141,8 +141,24 @@
         width:80vw;
     }
 
-    .trajetoria {
-        font-size: 10px;
+    .trajetoria .etec{
+        max-width: 80px;
+        height: auto;
+    }
+
+    .trajetoria .ifsp {
+        max-width: 80px;
+        height: auto;
+    }
+
+    .trajetoria p{
+        font-size: 13px;;
+        padding-left: 10px;
+    }
+
+    .trajetoria h2{
+        font-size: 17px;
+        padding-left: 10px;
     }
 
 }
