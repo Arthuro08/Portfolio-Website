@@ -9,7 +9,7 @@ const ctx = document.getElementById('myChart');
     type: 'pie',
     data: {
       datasets: [{
-        data: [3, 2, 4, 2, 4],
+        data: [3, 2, 4, 4, 4],
         backgroundColor: [
         '#0077ff',
         '#3c30ac',
